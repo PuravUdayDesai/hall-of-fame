@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "hall-of-fame",
+  "type": "javascript",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-02",
+  "pages_build_caching": true,
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  }
+}
